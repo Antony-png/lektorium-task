@@ -115,10 +115,3 @@ body a {
     padding: 20px 30px 20px 30px;
   }
 }
-
-@media screen and (orientation: landscape) {
-  .container {
-    width: 30%;
-    float: right;
-  }
-}
